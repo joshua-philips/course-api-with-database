@@ -1,4 +1,4 @@
-package io.jphilips.springbootstarter.topic;
+package io.joshuaphilips.topic;
 
 import java.util.List;
 
